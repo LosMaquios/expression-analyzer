@@ -1,0 +1,17 @@
+{
+  "name": "expression-analyzer",
+  "version": "0.1.0",
+  "description": "JavaScript expression analyzer",
+  "main": "dist/analyzer.js",
+  "repository": "git@github.com:LosMaquios/expression-analyzer.git",
+  "author": "Camilo Rodríguez <aeromotiondesign@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "acorn-class-fields": "^0.3.1",
+    "rollup": "^1.7.4"
+  }
+}

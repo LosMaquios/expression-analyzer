@@ -1,8 +1,9 @@
 {
   "name": "expression-analyzer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JavaScript expression analyzer",
   "main": "dist/analyzer.js",
+  "module": "dist/analyzer.esm.js",
   "repository": "git@github.com:LosMaquios/expression-analyzer.git",
   "author": "Camilo Rodríguez <aeromotiondesign@gmail.com>",
   "license": "MIT",
